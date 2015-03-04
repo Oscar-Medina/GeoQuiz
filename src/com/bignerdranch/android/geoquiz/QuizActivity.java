@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
+//prueba a ver si va
 
 public class QuizActivity extends Activity {
 
